@@ -1,0 +1,34 @@
+{
+  "name": "monument",
+  "version": "0.0.1",
+  "description": "projection mapping collab w artist Annie Kuhn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrqrvly/monument.git"
+  },
+  "keywords": [
+    "projection",
+    "mapping",
+    "video",
+    "installation",
+    "alien",
+    "mirror",
+    "monument",
+    "obelisk",
+    "pyramid"
+  ],
+  "author": "marque reavley <mrqrvly@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrqrvly/monument/issues"
+  },
+  "homepage": "https://github.com/mrqrvly/monument#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
